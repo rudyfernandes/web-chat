@@ -41,7 +41,7 @@ We created an online chat that enables conversation among all users on the same 
 ### Project cloning
 
 ```bash
-git clone
+git clone https://github.com/rudyfernandes/web-chat.git
 ```
 
 #### Starting:
